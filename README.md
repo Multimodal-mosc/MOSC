@@ -1,4 +1,4 @@
-# MOSC-FG
+# MOSC
 Chinese Multimodal Sarcasm Corpus with Fine-Grained Annotations
 
 # Example-Video
